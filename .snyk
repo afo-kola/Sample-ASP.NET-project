@@ -3,4 +3,4 @@
 exclude:
     global:
       
-        - Sample-ASP.NET-project/Sample.Application/
+        - Sample.Application/
