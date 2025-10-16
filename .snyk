@@ -3,4 +3,4 @@
 exclude:
     global:
       
-        - Sample.Application/
+        - Sample.Application/**
