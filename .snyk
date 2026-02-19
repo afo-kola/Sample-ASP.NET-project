@@ -2,7 +2,6 @@
 ---
 exclude:
     global:
-        - Sample.Application/**
-        - Sample.Core/**
+        # Exclude 
+        - Sample.Apllication/**
         - Sample.Web/**
-        - Sample.WebApi/**
