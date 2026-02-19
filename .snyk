@@ -1,6 +1,10 @@
+Version 1.25.0
 # Snyk (https://snyk.io) policy file
 ---
 exclude:
     global:
       
         - Sample.Application/**
+        - Sample.Core/**
+        - Sample.Web/**
+        - Sample.WebApi/**
